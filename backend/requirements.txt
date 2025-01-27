@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+ebooklib
+googletrans==4.0.0-rc1
+transformers
+torch
+python-multipart
+pikepdf
+torchaudio
+scipy
+
+outetts==0.2.3
+uroman
+numpy==1.24.3
